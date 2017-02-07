@@ -3,6 +3,9 @@ Node.js sample app on OpenShift!
 
 This example will serve a welcome page and the current hit count as stored in a database.
 
+### Current Projects
+- Cherry Project: http://nodejs-mongo-persistent-cherry.44fs.preview.openshiftapps.com/
+
 ### OpenShift Origin v3 setup
 
 There are four methods to get started with OpenShift v3:
